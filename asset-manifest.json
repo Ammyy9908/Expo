@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Expo/static/js/main.98c29de7.chunk.js",
-    "main.js.map": "/Expo/static/js/main.98c29de7.chunk.js.map",
+    "main.js": "/Expo/static/js/main.93989f3b.chunk.js",
+    "main.js.map": "/Expo/static/js/main.93989f3b.chunk.js.map",
     "runtime-main.js": "/Expo/static/js/runtime-main.a876e0f8.js",
     "runtime-main.js.map": "/Expo/static/js/runtime-main.a876e0f8.js.map",
     "static/js/2.4f4961dd.chunk.js": "/Expo/static/js/2.4f4961dd.chunk.js",
     "static/js/2.4f4961dd.chunk.js.map": "/Expo/static/js/2.4f4961dd.chunk.js.map",
     "index.html": "/Expo/index.html",
-    "precache-manifest.e747e48bc960cd60397e57e503e39308.js": "/Expo/precache-manifest.e747e48bc960cd60397e57e503e39308.js",
+    "precache-manifest.7f48cc9bfe0483360ad2381319449b31.js": "/Expo/precache-manifest.7f48cc9bfe0483360ad2381319449b31.js",
     "service-worker.js": "/Expo/service-worker.js",
     "static/js/2.4f4961dd.chunk.js.LICENSE.txt": "/Expo/static/js/2.4f4961dd.chunk.js.LICENSE.txt",
     "static/media/mountain.png": "/Expo/static/media/mountain.cd5a874d.png",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.a876e0f8.js",
     "static/js/2.4f4961dd.chunk.js",
-    "static/js/main.98c29de7.chunk.js"
+    "static/js/main.93989f3b.chunk.js"
   ]
 }
