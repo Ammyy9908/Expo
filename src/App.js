@@ -4,6 +4,8 @@ import { render } from '@testing-library/react';
 import MainPage from "./pages";
 import NotFound from "./pages/404";
 import Training from "./pages/training";
+import Research from "./pages/Research";
+import About from "./pages/About";
 
 function App() {
   render()
@@ -14,6 +16,8 @@ function App() {
       <Route exact path="/" component={MainPage}/>
       <Route exact path="/404" component ={NotFound}/>
       <Route exact path="/training" component ={Training}/>
+      <Route exact path="/Research" component ={Research}/>
+      <Route exact path="/About" component ={About}/>
       <Redirect to="/404" />
 
       </Switch>

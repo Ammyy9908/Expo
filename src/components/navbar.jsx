@@ -30,24 +30,24 @@ const Navbar = () =>
         Training
       </Link>
 
-      <a className="navbar-item has-text-white" href="/Research">
+      <Link className="navbar-item has-text-white" to="/Research">
         Research & Dev
-      </a>
-      <a className="navbar-item has-text-white" href="/Promotions">
+      </Link>
+      <Link className="navbar-item has-text-white" to="/Promotion">
         Promotions
-      </a>
-      <a className="navbar-item has-text-white" href="/Training">
+      </Link>
+      <Link className="navbar-item has-text-white" to="/Design">
         Designing
-      </a>
-      <a className="navbar-item has-text-white" href="/About">
+      </Link>
+      <Link className="navbar-item has-text-white" to="/About">
         About us
-      </a>
-      <a className="navbar-item has-text-white" href="/Contact">
+      </Link>
+      <Link className="navbar-item has-text-white" to="/Contact">
         Contact
-      </a>
-      <a className="navbar-item has-text-white" href="/Careers">
+      </Link>
+      <Link className="navbar-item has-text-white" to="/Careers">
         Careers
-      </a>
+      </Link>
     </div>
 
     <div className="navbar-end">
