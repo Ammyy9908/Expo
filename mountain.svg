@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3059.635" height="1314.464" viewBox="0 0 3059.635 1314.464">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#652be6"/>
+      <stop offset="1" stop-color="#21d6cf"/>
+    </linearGradient>
+    <filter id="Path_1" x="0" y="891.451" width="3059.635" height="423.013" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(58.012 -317.036)">
+    <g id="Group_1" data-name="Group 1">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_2" data-name="Path 2" d="M3418.889,987.2,3051.54,729.037l-135.7,34.778L2667.078,447.26h-81.621L2245.467,232.69,1964.792,563.74H1826.96L1690.533,938.162l-224.666,126.859-33.591,180.556-187.743,50.638-142.819,217.246L3418.889,1534Z" transform="translate(-426.766 85)" fill="#2d0a8b" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -58.01, 317.04)" filter="url(#Path_1)">
+        <path id="Path_1-2" data-name="Path 1" d="M0,1869.3s154.846-202.389,335.383-225.083,186.6,153.669,386.768,134.307,240.711-196.1,413.9-211.755,160.164,138.632,278.86,149.142,111.951-89.177,195.925-107.1,139.971,35.406,139.971,35.406,26.3-185.357,127.93-178.757,171.621,179.828,278.576,205.156,48.64-137.244,149.243-103.846,134.126,242.786,253.168,237.436,102.9-258.834,223-258.834,257.4,258.834,257.4,258.834V1869.3Z" transform="translate(10.01 -567.33)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M1822.292,317.69s-71.667,136.142-95.556,263.432,0,245.728,0,245.728l171.1-67.093s-220.223,149.317-271.326,277.574,66.914,235.453,66.914,235.453-226.6-120.058-318.048-134.115-110.543,39.056-47.76,77.887S1626.508,1294,1626.508,1294s-224.17,20.882-298.894,60.685,0,98.527,0,98.527l-177.042-126.972H1020.092V1163.515l222.51-126.185,158.89-385.875h138.733Z" fill="#6a41d8" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
